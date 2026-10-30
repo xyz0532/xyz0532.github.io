@@ -1,3 +1,22 @@
+Package: com.zege.27safari
+Architecture: iphoneos-arm64
+Version: 3.5.52
+Section: Tweaks
+Maintainer: 泽哥
+Installed-Size: 648
+Depends: mobilesubstrate
+Conflicts: com.sekoandlionel.26safari, com.rein.26safari
+Replaces: com.sekoandlionel.26safari, com.rein.26safari
+Filename: debs/com.zege.27safari_3.5.52_iphoneos-arm64.deb
+Size: 64060
+MD5sum: ccd720cc8d4752851d3b7e212ca11af0
+SHA1: 77a0ed59acaa7250f7ceb8c022f7b72228aac3b6
+SHA256: f18f0586eb2bd1b618568f6c97357ea65df564fc0b8c71e4b32ab4ed00570608
+SHA512: 66a97e72880927b74b2d1fbd550d11fa725b43108f34760356606d5e3ace1fc2cf3b59651af55473967af6b51b89cdbe0d90105491cc0eddd6ec0f9d53287916
+Description: 给Safari添加iOS27液态玻璃效果。
+Name: 27Safari
+Author: 泽哥
+
 Package: com.local.bgnetwork
 Architecture: iphoneos-arm64e
 Version: 1.3.8-rh

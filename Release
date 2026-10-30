@@ -8,8 +8,8 @@ Components: main
 Description: xyz0532 的越狱软件源
 Support: https://xyz0532.github.io/xyz0532.github.io/
 MD5Sum:
- b7c000ba6af1c3532a48af67337f24fe  612 Packages
- 4a8dc9e892511177838b9050d9f51cf4  476 Packages.gz
+ 1079ddab050a072561fd2c616038353f  1332 Packages
+ 50b10f2a0634022253a8b9c80a8ed65b  841 Packages.gz
 SHA256:
- c883f95b352450ace639d88dfaf679d47b2b4504ccb81c22883f26543cfd197a  612 Packages
- 4c5c86776176369d5ecf05adb0e4374b5f4504e98bc5c1d81e50ad28e6d7fde2  476 Packages.gz
+ b66ca184dfa983a731404c66732d87b40fd65dc0392752ca6ec55ef3652add1c  1332 Packages
+ 75a76b5d6b9cfd2caf672535190f3eddd1aa1b2c37ebd853c9d65d4181ba8367  841 Packages.gz
