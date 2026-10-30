@@ -1,0 +1,15 @@
+Origin: xyz0532 的源
+Label: xyz0532 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: xyz0532 的越狱软件源
+Support: https://xyz0532.github.io/xyz0532.github.io/
+MD5Sum:
+ b7c000ba6af1c3532a48af67337f24fe  612 Packages
+ 4a8dc9e892511177838b9050d9f51cf4  476 Packages.gz
+SHA256:
+ c883f95b352450ace639d88dfaf679d47b2b4504ccb81c22883f26543cfd197a  612 Packages
+ 4c5c86776176369d5ecf05adb0e4374b5f4504e98bc5c1d81e50ad28e6d7fde2  476 Packages.gz
